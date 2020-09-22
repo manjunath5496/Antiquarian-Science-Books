@@ -73,7 +73,14 @@ Volume II</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(37).pdf" style="text-decoration:none;">On Aerial Navigation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(38).pdf" style="text-decoration:none;">The New Organon: or True Directions Concerning the Interpretation of Nature</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(39).pdf" style="text-decoration:none;">An Essay towards solving a Problem in the Doctrine of Chances</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(40).pdf" style="text-decoration:none;">Experiments on Plant Hybridization</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(40).pdf" style="text-decoration:none;">Experiments on Plant Hybridization</a></li>   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(41).pdf" style="text-decoration:none;">The Principles of Quantum Mechanics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(42).pdf" style="text-decoration:none;">Relativity: the special and the general theory</a></li>   
+ 
+ 
+ 
+ 
 </ul>
   
   
