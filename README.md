@@ -85,7 +85,8 @@ Volume II</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(43).pdf" style="text-decoration:none;">A Treatise on Electricity and Magnetism: Part I</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(44).pdf" style="text-decoration:none;">A Treatise on Electricity and Magnetism: Part II</a></li> 
  
- 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(45).pdf" style="text-decoration:none;">A Treatise of Celestial Mechanics: Part I</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(46).pdf" style="text-decoration:none;">A Treatise of Celestial Mechanics: Part II</a></li> 
  
  
  
