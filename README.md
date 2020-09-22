@@ -41,40 +41,39 @@ Volume II</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(20).pdf" style="text-decoration:none;"> Capital: A Critique of Political Economy, Volume I</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(21).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(22).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(21).pdf" style="text-decoration:none;">An Inquiry into the Nature and Causes of the Wealth of Nations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(22).pdf" style="text-decoration:none;">Theory of the Earth, Volume 1</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(23).pdf" style="text-decoration:none;">Treatise on Light</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(24).pdf" style="text-decoration:none;">Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Tra</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(24).pdf" style="text-decoration:none;">On the Equilibrium of Heterogeneous Substances</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(25).pdf" style="text-decoration:none;">Neural Machine Translation and Sequence-to-sequence Models: A Tutorial</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(26).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(27).pdf" style="text-decoration:none;">Sequence-to-Sequence Models Can Directly Translate Foreign Speech</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(25).pdf" style="text-decoration:none;">The Harmonies of the World</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(26).pdf" style="text-decoration:none;">On computable numbers, with an application to the Entscheidungsproblem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(27).pdf" style="text-decoration:none;">Systema Naturae</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(28).pdf" style="text-decoration:none;">Convolutional Sequence to Sequence Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(28).pdf" style="text-decoration:none;">TheSceptical Chymist</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(29).pdf" style="text-decoration:none;">A Survey of Cross-lingual Word Embedding Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(29).pdf" style="text-decoration:none;">The Sidereal Messenger</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(30).pdf" style="text-decoration:none;">Dual Supervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(30).pdf" style="text-decoration:none;">An Investigation of the Laws of Thought </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(31).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(32).pdf" style="text-decoration:none;">Statistical Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(31).pdf" style="text-decoration:none;">The General Theory of Employment, Interest, and Money</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(32).pdf" style="text-decoration:none;">Experiments and Observations on Electricity made at Philadelphia in America</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(33).pdf" style="text-decoration:none;">Attentive Convolution:
-Equipping CNNs with RNN-style Attention Mechanisms</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(33).pdf" style="text-decoration:none;">An Inquiry into the Causes and Effects of the Variolae Vaccinae</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(34).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(34).pdf" style="text-decoration:none;">On the Origin of Species</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(35).pdf" style="text-decoration:none;">Learning to Remember Translation History with a Continuous Cache</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(35).pdf" style="text-decoration:none;">A Symbolic Analysis of Relay and Switching Circuits</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(36).pdf" style="text-decoration:none;">Improved English to Russian Translation by Neural Suffix Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(36).pdf" style="text-decoration:none;">A Discourse on Method</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(37).pdf" style="text-decoration:none;">Asynchronous Bidirectional Decoding for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(39).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(40).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(37).pdf" style="text-decoration:none;">On Aerial Navigation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(38).pdf" style="text-decoration:none;">The New Organon: or True Directions Concerning the Interpretation of Nature</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(39).pdf" style="text-decoration:none;">An Essay towards solving a Problem in the Doctrine of Chances</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Antiquarian-Science-Books/blob/master/ans(40).pdf" style="text-decoration:none;">Experiments on Plant Hybridization</a></li>                              
 </ul>
   
   
