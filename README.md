@@ -1,3 +1,7 @@
+<p><strong>Antiquarian science books</strong>&nbsp;are original historical works (e.g., books or technical papers) concerning&nbsp;<a class="mw-redirect" title="List of important publications in science" href="https://en.wikipedia.org/wiki/List_of_important_publications_in_science">science</a>,&nbsp;<a title="List of important publications in mathematics" href="https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics">mathematics</a>&nbsp;and sometimes&nbsp;<a title="Engineering" href="https://en.wikipedia.org/wiki/Engineering">engineering</a>. These books are important primary references for the study of the&nbsp;<a title="History of science and technology" href="https://en.wikipedia.org/wiki/History_of_science_and_technology">history of science and technology</a>, they can provide valuable insights into the historical development of the various fields of scientific inquiry (<a title="History of science" href="https://en.wikipedia.org/wiki/History_of_science">History of science</a>,&nbsp;<a title="History of mathematics" href="https://en.wikipedia.org/wiki/History_of_mathematics">History of mathematics</a>, etc.)</p>
+</br>
+
+
 <h2> List of notable books </h2>
 
 <ul>
